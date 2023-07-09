@@ -1,0 +1,6 @@
+.idea/
+out/
+*.iml
+
+resource/boardSave.txt
+resource/coloursSave.txt
